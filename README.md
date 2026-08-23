@@ -1,4 +1,4 @@
-# GitHub Profile README — Shreya Rajput
+# GitHub Profile — Shreya Rajput
 
 <h1 align="center">Hi 👋, I'm Shreya Rajput</h1>
 
